@@ -1,0 +1,24 @@
+.barra {
+  height: 60px;
+  width: 80%;
+  min-width: 725px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #847d84;
+  border-radius: 10px;
+  margin: 0 auto;
+  padding: 3px;
+  margin-bottom: 40px;
+}
+.btnContainer {
+  gap: 50px;
+  display: flex;
+}
+.logo-NavBar {
+  height: 60px;
+  margin: 0 20px;
+  border-radius: 50%;
+  margin-top: 4px;
+}
