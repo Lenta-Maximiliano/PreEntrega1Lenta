@@ -7,7 +7,7 @@ export default function NavBar() {
     <>
       <nav className="barra">
         <a href="#">
-          <img className='logo-NavBar' src="../../public/Logo.png" alt="Logo Ecommerce" />
+          <img className='logo-NavBar' src="/public/Logo.png" alt="Logo Ecommerce" />
         </a>
         <div className='btnContainer'>
           <ButtonComponent nombre="Cervezas" />
